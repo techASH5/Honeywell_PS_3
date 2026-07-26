@@ -11,11 +11,6 @@
 
 ---
 
-## ℹ️ About
-This project was developed for the Honeywell Hackathon Problem Statement 3. The goal is to maximize oil production while strictly adhering to safety limits (Wellhead Pressure, Bottom Hole Pressure, etc.). We replace manual operator adjustments with an AI-driven Model Predictive Controller (MPC) that thinks ahead, predicts pressure transients, and autonomously modulates the choke valve.
-
----
-
 ## 📖 Overview
 
 In modern oil & gas production, regulating the flow of fluids while maintaining safe wellhead, flowline, and bottom-hole pressures is a delicate balancing act. 
