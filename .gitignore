@@ -18,3 +18,7 @@ env/
 # Temporary files you used
 fix_css.py
 step_test_response.html
+
+# Kept strictly local
+ProblemStatement.md
+ProjectOverview.md
