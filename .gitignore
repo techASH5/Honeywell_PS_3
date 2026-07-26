@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit temporary/cache files
+.streamlit/*.pyc
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Temporary files you used
+fix_css.py
+step_test_response.html
